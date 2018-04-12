@@ -1,0 +1,8 @@
+Big Большой
+Dog Собака
+Flower Цветок
+Cat Кот
+Tree Дерево
+Mouse Мышка
+Tea Чай
+Time Время
